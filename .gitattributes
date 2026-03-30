@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force Windows-style line endings for these files
+*.cs text eol=crlf
+*.cshtml text eol=crlf
+*.csproj text eol=crlf
+*.json text eol=crlf
+*.css text eol=crlf
+*.js text eol=crlf
+*.html text eol=crlf
+*.md text eol=crlf
